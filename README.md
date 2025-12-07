@@ -16,5 +16,5 @@ Two players can play turn by turn, and the game shows if someone wins or if ther
 
 ## How to run
 Make sure Python is installed, then run:
-python tic_tac_toe.py
+python tictactoe.py
 
